@@ -4,7 +4,7 @@ import com.example.Config.ProjectConfig;
 import com.example.beans.Vehicle;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-public class main {
+public class example1 {
     public static void main(String[] args) {
         Vehicle vehicle = new Vehicle();
         vehicle.setName("Honda city");
