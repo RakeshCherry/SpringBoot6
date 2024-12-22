@@ -9,6 +9,7 @@
         <module name="example-1" />
         <module name="example-2" />
         <module name="example-3" />
+        <module name="example-4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
