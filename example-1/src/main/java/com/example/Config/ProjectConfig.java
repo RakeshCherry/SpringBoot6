@@ -19,6 +19,6 @@ public class ProjectConfig {
 
     @Bean
     Integer number(){
-        return 15;
+        return (Integer) 15;
     }
 }
