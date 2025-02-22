@@ -4,7 +4,7 @@ import com.example.Config.ProjectConfig;
 import com.example.beans.Vehicle;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-public class example3 {
+public class example4 {
     public static void main(String[] args) {
 
 
