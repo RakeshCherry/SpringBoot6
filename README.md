@@ -1,7 +1,7 @@
 ## Topics
 
-What is Spring framework ?
-Spring Vs Java EE
+* What is Spring framework ?
+* Spring Vs Java EE
 Evolution of Spring and release timeline of Spring
 Different projects inside Spring
 Spring Core Concepts like Inversion of Control (IoC), Dependency Injection (DI) & Aspect-Oriented Programming (AOP)
