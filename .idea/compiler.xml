@@ -8,11 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="example-1" />
         <module name="example-2" />
+        <module name="example-6" />
         <module name="example-3" />
         <module name="example-4" />
+        <module name="example4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="example-4 (1)" target="21" />
       <module name="springBoot6" target="21" />
     </bytecodeTargetLevel>
   </component>
