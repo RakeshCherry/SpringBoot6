@@ -1,12 +1,10 @@
 package com.example.main;
 
-import com.example.beans.Person;
-import com.example.beans.Vehicle;
 import com.example.config.ProjectConfig;
 import com.example.services.VehicleServices;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-public class Example14 {
+public class example14 {
 
     public static void main(String[] args) {
         var context = new AnnotationConfigApplicationContext(ProjectConfig.class);
