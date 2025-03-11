@@ -13,7 +13,7 @@ public class example17 {
         System.out.println(vehicleServices.getClass());
         Song song = new Song();
         song.setTitle("Blank Space");
-        song.setSingerName("Taylor Swift");
+        song.setSingerName("Eminem");
         boolean vehicleStarted = true;
         String moveVehicleStatus = vehicleServices.moveVehicle(vehicleStarted);
         String playMusicStatus = vehicleServices.playMusic(vehicleStarted,song);
