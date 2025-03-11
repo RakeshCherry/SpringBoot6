@@ -1,13 +1,13 @@
-package com.eazybytes.eazyschool;
+package com.expert.expertschool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EazyschoolApplication {
+public class ExpertschoolApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EazyschoolApplication.class, args);
+		SpringApplication.run(ExpertschoolApplication.class, args);
 	}
 
 }
