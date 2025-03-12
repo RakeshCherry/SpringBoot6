@@ -12,7 +12,9 @@
         <module name="example-12" />
         <module name="example-23" />
         <module name="example-13" />
+        <module name="example-24" />
         <module name="example-10" />
+        <module name="example-21" />
         <module name="example-11" />
         <module name="example-22" />
         <module name="example-20" />
@@ -21,14 +23,10 @@
         <module name="example-18" />
         <module name="example-19" />
         <module name="example-16" />
-        <module name="example-4 (2)" />
         <module name="example-17" />
-        <module name="example-4 (1)" />
-        <module name="example-9" />
         <module name="example-7" />
         <module name="example9" />
         <module name="example-8" />
-        <module name="example-5" />
         <module name="example-6" />
         <module name="example-3" />
         <module name="example-4" />
@@ -44,6 +42,10 @@
       <module name="example-18" options="-parameters" />
       <module name="example-19" options="-parameters" />
       <module name="example-20" options="-parameters" />
+      <module name="example-21" options="-parameters" />
+      <module name="example-22" options="-parameters" />
+      <module name="example-23" options="-parameters" />
+      <module name="example-24" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.eazybytes.eazyschool.config;
+package com.expert.expertschool.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;

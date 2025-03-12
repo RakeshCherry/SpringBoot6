@@ -1,4 +1,4 @@
-package com.eazybytes.eazyschool.controller;
+package com.expert.expertschool.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
