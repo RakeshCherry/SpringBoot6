@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,9 +10,11 @@
         <module name="example-14" />
         <module name="example-15" />
         <module name="example-12" />
+        <module name="example-23" />
         <module name="example-13" />
         <module name="example-10" />
         <module name="example-11" />
+        <module name="example-22" />
         <module name="example-20" />
         <module name="example-1" />
         <module name="example-2" />
@@ -33,10 +36,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="example-4" target="21" />
-      <module name="example-6" target="21" />
-      <module name="example4" target="21" />
-      <module name="example9" target="21" />
       <module name="springBoot6" target="21" />
     </bytecodeTargetLevel>
   </component>
