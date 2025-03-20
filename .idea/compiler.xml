@@ -10,6 +10,7 @@
         <module name="example-14" />
         <module name="example-36" />
         <module name="example-15" />
+        <module name="example-37" />
         <module name="example-12" />
         <module name="example-34" />
         <module name="example-13" />
@@ -24,6 +25,7 @@
         <module name="example-19" />
         <module name="example-16" />
         <module name="example-4 (2)" />
+        <module name="example-38" />
         <module name="example-17" />
         <module name="example-25" />
         <module name="example-26" />
@@ -74,6 +76,8 @@
       <module name="example-34" options="-parameters" />
       <module name="example-35" options="-parameters" />
       <module name="example-36" options="-parameters" />
+      <module name="example-37" options="-parameters" />
+      <module name="example-38" options="-parameters" />
     </option>
   </component>
 </project>
